@@ -1,0 +1,1 @@
+console.log('hello, version 1.0.0')
